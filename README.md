@@ -1,7 +1,9 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Thangamani%20A&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MCA%20Student%20%7C%20Aspiring%20IT%20%26%20Data%20Professional&descAlignY=55&descAlign=50" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Network+Engineering+%26+Troubleshooting;AI+Data+Analytics+Enthusiast;Web+Design+%7C+HTML;Cloud+%26+Data+Auditing+Systems" alt="Typing SVG" /> </a> <br/>
-MCA Student Location
+MCA Student 
+THANJAVUR
 
-Email GitHub
+  Thangamanirio@gmail.com
+  Github-thangamanirio
 
 Profile Views Followers Stars
 
@@ -16,9 +18,9 @@ Before my MCA, I completed a B.Com and worked on income tax filing and GST regis
 🛠️ Tech Stack
 Languages & Web
 
-HTML5
+HTML
 
-Data & Analytics
+Ai Data & Analytics
 
 Excel Data Management
 
